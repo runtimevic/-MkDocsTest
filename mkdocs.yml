@@ -5,3 +5,4 @@ theme:
 nav:
     - Home: index.md
     - Article: article.md
+    - pagina1: pagina1.md
